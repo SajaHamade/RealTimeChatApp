@@ -25,8 +25,8 @@ Create a .env file in the chatServer directory and add your database URL and POR
 
 5.Run the backend server:
 cd chatServer
-npm start
-for a successful run on your console you must see : 
+npm start ;
+for a successful run you must see on your console  : 
 Server is Running
 Connected to mongodb
 user joined (then the socket id)
@@ -34,5 +34,5 @@ user joined (then the socket id)
 
 6:Run the frontend:
 cd chatFront
-npm rn dev (made with vite)
+npm run dev ;(made with vite)
 and then ctrl+click on the provided link .
