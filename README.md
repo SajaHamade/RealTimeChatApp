@@ -1,4 +1,4 @@
-RealTimeChatApp
+SocketChat is a Real Time Chat App
 This is a MERN stack full-stack application that implements a real-time chat feature using Socket.IO. It also utilizes Tailwind CSS for modern design.
 
 
